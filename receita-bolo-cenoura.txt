@@ -1,4 +1,5 @@
 INGREDIENTES
+<<<<<<< HEAD
 
 3 cenouras grandes cortadas em pedaços
 açúcar: 2 xícaras de açúcar
